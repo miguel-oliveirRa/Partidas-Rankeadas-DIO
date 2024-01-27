@@ -1,6 +1,6 @@
 # Desafios Partidas-Rankeadas feito pelo [**Felipe**](https://github.com/felipeAguiarCode) da DIO
 
-Este desafio, o objetivo é usar as vitórias e derrotas do jogador para calcular o ranking de acordo com a lista.
+Este desafio o objetivo é usar as vitórias e derrotas do jogador para calcular o ranking de acordo com a lista.
 
 ## 📔 Lista dos Rankings
 
